@@ -1,2 +1,19 @@
-# VoxFlame-Android-Releases
-VoxFlame Android preview APK downloads. Binary distribution only; application source code is not hosted here.
+# 燃言 VoxFlame · Android 预览版
+
+此仓库仅用于分发 Android 安装包及其 SHA-256 校验信息，**不托管应用源码、用户数据或签名密钥**。
+
+## 下载与安装
+
+1. 打开本仓库的 **Releases**，选择标记为 Preview 的版本。
+2. 下载 `.apk` 文件；需要核验时比对同版本的 `SHA256SUMS.txt`。
+3. 已安装用户请直接覆盖安装。不要为升级卸载 App、清除应用数据或删除尚未上传的录音。
+4. 安装时仅在确认来源后允许浏览器安装该 APK。
+
+## 使用与边界
+
+- 进入「沟通」后点击「开始实时沟通」，无需先选择场景；麦克风在明确开始时请求权限。
+- 预览版不代表稳定版验收通过。麦克风、扬声器、打断、重连及有声往返仍需真实设备验证。
+- APK 发布与官网安装包、服务端部署的更新时间可能不同；以各 Release 的说明为准。
+- 本产品用于沟通辅助，不替代医学诊断或治疗。
+
+不要在此仓库上传账号密码、验证码、密钥、录音或包含个人信息的日志。
